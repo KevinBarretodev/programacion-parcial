@@ -33,3 +33,23 @@
     margin: 0 auto;
     width: 250px;
 }
+
+.left{
+    width: 50%;
+    height: 300px;
+    float: left; 
+    background-color: #404040;
+    margin-top:auto;
+    margin-bottom:auto;
+    text-align:center;
+}
+.right{
+    width: 50%;
+    float: right; 
+}
+
+.container__img {
+    width: 180px;
+    height: 50px;
+    margin-right: 60px;
+}
