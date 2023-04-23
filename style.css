@@ -6,3 +6,16 @@
 .row-table {
     height: 90px;
 }
+
+.nav_bar_labels {
+    font-size: 10px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.nav_bar_labels-first-label {
+    margin: 10px;
+    font-size: 10px;
+    font-weight: bold;
+    color: rosybrown;
+}
