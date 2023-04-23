@@ -16,12 +16,12 @@
 }
 
 
-.table {
+.container {
     width: 50%; 
     margin: 0 auto;
 }
 
-.row-table {
+.container__table-row {
     height: 90px;
 }
 
@@ -103,4 +103,9 @@ width: 250px;
 
 .text__label {
     color: white;
+}
+
+.laboratory__img {
+    width: 100%; 
+    height: 300px;
 }
