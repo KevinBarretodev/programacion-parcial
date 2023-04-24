@@ -1,4 +1,4 @@
-.nav_bar_labels {
+.table__label {
     font-size: 10px;
     font-weight: bold;
     margin: 10px;
@@ -115,4 +115,8 @@ width: 250px;
     right: -500px;
     margin: 0 auto;
     width: 250px;
+}
+
+.table {
+    width: 100%;
 }
