@@ -4,7 +4,7 @@
     margin: 10px;
 }
 
-.nav_bar_labels-first-label {
+.table__label-rose {
     margin: 10px;
     font-size: 10px;
     font-weight: bold;
@@ -16,12 +16,12 @@
 }
 
 
-.table {
+.container {
     width: 50%; 
     margin: 0 auto;
 }
 
-.row-table {
+.container__table-row {
     height: 90px;
 }
 
@@ -29,10 +29,6 @@
     transform: translate(700px, 200px);
 }
 
-.container {
-    width: 100%;
-    height: 500px;
-}
 
 .left{
     width: 50%;
